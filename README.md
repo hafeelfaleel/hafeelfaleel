@@ -40,10 +40,10 @@ I build things until they work, break them until I understand why, then build th
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hafeelfaleel&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafeelfaleel&layout=compact&theme=dracula&hide_border=true"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=hafeelfaleel&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hafeelfaleel&layout=compact&theme=dracula&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hafeelfaleel&theme=dracula&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=hafeelfaleel&theme=dracula&hide_border=true" width="70%"/>
 
 </div>
 
