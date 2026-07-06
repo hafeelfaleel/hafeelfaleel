@@ -1,96 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:8b0000,100:ffd700&height=210&section=header&text=H.%20FALEEL&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WORKSHOP%20STATUS%3A%20ONLINE&descSize=20&descAlignY=58&descColor=ffd700" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1f29&height=180&section=header&text=Hafeel%20Faleel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Self-taught%20engineer%20%C2%B7%20Local-first%20AI%20%C2%B7%20Builds%20things%20end-to-end&descSize=16&descAlignY=62&descColor=8b949e" width="100%"/>
 
-<img src="arc-reactor.svg" width="120"/>
+</div>
+
+I build software that works without depending on someone else's server. My focus right now is local-first AI — assistants, tools, and pipelines that run entirely on-device, with no API keys and no cloud dependency.
+
+I like problems with a clear before-and-after: something didn't work, then it did, and I can point to exactly why.
+
+**Currently building:** a fully local voice assistant (speech recognition → local LLM → speech synthesis, zero cloud calls)
+**Interested in:** on-device AI, systems programming, and making things fast enough to feel real-time on ordinary hardware
 
 <br/>
 
-```
-> BOOTING PERSONAL_SYSTEM.exe
-> LOADING PROFILE: hafeelfaleel
-> ARC REACTOR ............ STABLE
-> COFFEE LEVELS ........... CRITICAL
-> PATIENCE FOR BUGS ....... LOW
-> EGO ..................... APPROPRIATELY SIZED
-> STATUS .................. READY TO BUILD
-```
-
-</div>
-
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
-
-### 🔺 SUIT LOG
-
-I don't wait for permission to start building — I open a terminal and figure it out. No lab full of assistants, no unlimited budget. Just a laptop, an internet connection, and a refusal to accept "that's just how it's done."
-
-Currently running my own R&D division out of a bedroom instead of a workshop in Malibu, but the principle's the same: **prototype fast, break it faster, ship something that actually works.**
-
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
-
-### 🛰️ ACTIVE R&D
-
-<table>
-<tr>
-<td width="70%">
-
-**PROJECT: J.A.R.V.I.S.**
-`github.com/hafeelfaleel/Jarvis`
-
-A fully local, offline voice assistant. No cloud, no API bill, no company reading your requests — just Whisper for ears, a local LLM for a brain, and a TTS engine for a voice. Runs entirely on-device.
-
-</td>
-<td width="30%" align="center">
-
-**BUILD LOG**
-Mark I → text-only
-Mark II → voice input
-Mark III → wake word
-Mark IV → tuned accuracy
-**Mark V → real-time listening**
-
-</td>
-</tr>
-</table>
-
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
-
-### ⚙️ LOADOUT
+### Featured work
 
 <div align="center">
 
-| SYSTEM | COMPONENT |
-|:--|:--|
-| 🧠 **Core Logic** | ![Python](https://img.shields.io/badge/Python-ffd700?style=flat-square&logo=python&logoColor=0a0a0a) |
-| 🔩 **Low-Level Plating** | ![C](https://img.shields.io/badge/C-8b0000?style=flat-square&logo=c&logoColor=ffd700) |
-| 🎯 **Targeting Systems** | ![Java](https://img.shields.io/badge/Java-ffd700?style=flat-square&logo=openjdk&logoColor=0a0a0a) |
-| 🛠️ **Command Line** | ![Bash](https://img.shields.io/badge/Bash-8b0000?style=flat-square&logo=gnubash&logoColor=ffd700) |
-| 📡 **Version Control** | ![Git](https://img.shields.io/badge/Git-ffd700?style=flat-square&logo=git&logoColor=0a0a0a) |
-| 🤖 **On-board AI** | ![Ollama](https://img.shields.io/badge/Ollama-8b0000?style=flat-square&logo=ollama&logoColor=ffd700) |
+<a href="https://github.com/hafeelfaleel/Jarvis">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=hafeelfaleel&repo=Jarvis&theme=default_repocard&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</a>
 
 </div>
 
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+**Jarvis** — a local voice assistant with no cloud dependency: Whisper for speech-to-text, a local LLM via Ollama for reasoning, and offline text-to-speech for replies. Evolved from a basic chat loop to real-time, voice-activity-detection-based listening across five iterations.
 
-### 📊 DIAGNOSTIC REPORT
+<br/>
+
+### Stack
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=hafeelfaleel&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=ffd700&text_color=ffffff&icon_color=8b0000&bg_color=0a0a0a"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hafeelfaleel&layout=compact&theme=radical&hide_border=true&title_color=ffd700&text_color=ffffff&bg_color=0a0a0a"/>
-
-<img src="https://streak-stats.demolab.com/?user=hafeelfaleel&theme=radical&hide_border=true&background=0A0A0A&ring=8B0000&fire=FFD700&currStreakLabel=FFD700" width="70%"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
 </div>
 
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+<br/>
+
+### Activity
 
 <div align="center">
 
-**FRIDAY. Or JARVIS. Still deciding which name has better branding.**
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=hafeelfaleel&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hafeelfaleel&layout=compact&theme=default&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
-[![GitHub](https://img.shields.io/badge/CONNECT-181717?style=for-the-badge&logo=github&logoColor=ffd700)](https://github.com/hafeelfaleel)
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd700,50:8b0000,100:0a0a0a&height=100&section=footer" width="100%"/>
+<br/>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hafeelfaleel)
 
 </div>
