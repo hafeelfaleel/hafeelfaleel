@@ -1,147 +1,148 @@
 <!--
-  HAFEEL FALEEL • GitHub profile README
-  Designed for github.com/hafeelfaleel
-  Project descriptions indicate collaborative/team work and do not imply sole authorship.
+  GitHub Profile • Hafeel Faleel
+  Direction: AI × Data Science × thoughtful engineering
+  Designed to remain readable on desktop/mobile and in light/dark themes.
+  Collaborative projects are attributed as team work; results are from the team's viva slides.
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:081526,45:0B4762,100:22D3EE&text=HAFEEL%20FALEEL&fontColor=FFFFFF&fontSize=49&fontAlignY=39&desc=BUILDING%20BEYOND%20THE%20BRIEF&descAlignY=62&descSize=15&animation=fadeIn" width="100%" alt="Hafeel Faleel — Building Beyond the Brief" />
+<img width="100%" alt="Hafeel Faleel — Engineering Intelligence. Understanding Data." src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:081326,45:123C58,100:18B5BF&text=HAFEEL%20FALEEL&fontColor=FFFFFF&fontSize=49&fontAlignY=36&desc=ENGINEERING%20INTELLIGENCE.%20UNDERSTANDING%20DATA.&descAlignY=59&descSize=15&animation=fadeIn" />
 
-<a href="https://github.com/hafeelfaleel">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3300&pause=1000&color=22D3EE&center=true&vCenter=true&repeat=true&width=750&height=40&lines=Software+Engineering+%E2%80%A2+Artificial+Intelligence+%E2%80%A2+IoT;From+full-stack+systems+to+AI+research;Curiosity+is+the+starting+point.+Building+is+the+proof." alt="Animated introduction" />
-</a>
+<a href="https://github.com/hafeelfaleel"><img alt="AI, data science and software engineering animated headline" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1100&color=16B9C8&center=true&vCenter=true&width=760&height=45&lines=AI+%C3%97+Data+Science+%C3%97+Software+Engineering;Learning+to+turn+raw+data+into+meaningful+decisions;Research.+Build.+Question.+Improve." /></a>
 
-**IT Undergraduate @ SLIIT** &nbsp;·&nbsp; **Exploring software engineering & applied AI** &nbsp;·&nbsp; **Open to internship opportunities**
+**Information Technology Undergraduate · SLIIT, Sri Lanka**  
+**Aspiring AI & Data Science Engineer · Seeking internship opportunities**
 
-[![GitHub](https://img.shields.io/badge/GitHub-hafeelfaleel-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hafeelfaleel)
-![Focus](https://img.shields.io/badge/FOCUS-Build%20%2B%20Learn%20%2B%20Improve-0F766E?style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/GitHub-@hafeelfaleel-121C2C?style=flat-square&logo=github&logoColor=white)](https://github.com/hafeelfaleel)
+![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Data%20Science-087F8C?style=flat-square)
+![Approach](https://img.shields.io/badge/Approach-Evidence%20over%20assumptions-243B53?style=flat-square)
 
 </div>
 
 ---
 
-### `01 / THE PERSON BEHIND THE CODE`
+### `01 / ABOUT ME` 
 
-I like building things that connect **software to real problems**—whether that means designing a parking workflow, experimenting with deep-learning models for coral restoration, or making a prototype react to sensor data.
+I am **Hafeel**, an IT undergraduate who enjoys understanding *why* systems work—not just making them run. I'm drawn to the intersection of **artificial intelligence, data, and practical engineering**: the point where a messy dataset becomes an insight, an experiment becomes a decision, or an idea becomes something people can use.
 
-I'm an Information Technology undergraduate at **Sri Lanka Institute of Information Technology (SLIIT)**, growing through collaborative projects across **full-stack development, AI/ML, IoT, and networking**.
+Across collaborative university projects and a buildathon, I've explored **computer vision, model evaluation, intelligent agents, full-stack systems, and IoT**. I'm still learning, and I like being able to explain both **what worked** and **what didn't**.
 
-What matters to me isn't just getting something to run. It's understanding **why it works**, where it breaks, and what it would take to make it better.
+> **The principle I build around:** A convincing result is not necessarily a reliable one. Test it, understand its limits, then make it better.
 
-> **My mindset:** Stay curious. Think in systems. Build with purpose.
-
-### `02 / WHAT I'VE BEEN EXPLORING`
+### `02 / RESEARCH SPOTLIGHT` · Coral Restoration × Computer Vision
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**🧩 Software engineering**
-
-Designing practical workflows, connecting the frontend to the backend, working with databases, and thinking about how people actually use a system.
-
-**Tools I've worked with:** Java, Spring Boot, Thymeleaf, SQL, Git.
-
-</td>
-<td width="50%" valign="top">
-
-**🧠 Applied AI & intelligent agents**
-
-Exploring computer vision, experimental evaluation, AI agents and what makes an AI system useful beyond a model prediction.
-
-**Tools I've explored:** Python, deep learning, Google ADK, Gemini.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🔌 Connected systems**
-
-Taking ideas beyond a screen—using sensors, microcontrollers, and automation to interact with the physical world.
-
-**Experience:** ESP32, ultrasonic sensors, servo control, Blynk IoT.
-
-</td>
-<td width="50%" valign="top">
-
-**🌐 Systems & infrastructure**
-
-Understanding how devices, services, and networks fit together—and how thoughtful design supports reliable systems.
-
-**Experience:** Network design and Cisco Packet Tracer.
-
-</td>
+<td align="center"><b>11,190</b><br/><sub>unique reef images after deduplication</sub></td>
+<td align="center"><b>5</b><br/><sub>deep-learning backbones evaluated</sub></td>
+<td align="center"><b>0.871</b><br/><sub>best held-out test macro-F1</sub></td>
 </tr>
 </table>
 
-### `03 / SELECTED WORK · BUILT WITH TEAMS`
+**AI-Driven Reef Substrate Classification for Coral Restoration Support**  
+*Collaborative research project · SLIIT · IT2011 Artificial Intelligence and Machine Learning*
 
-<sub>These are collaborative academic and buildathon projects. The descriptions highlight the projects, not a claim that I built every component independently.</sub>
-
-| Work | What makes it interesting | Space |
-|:--|:--|:--|
-| **Parkiyo** · Smart Vehicle Parking Management | A full-stack parking management system that brings together vehicle records, parking operations, and application workflows. | `Java` `Spring Boot` `MySQL` |
-| **AI-Driven Reef Substrate Classification** | Deep-learning research supporting coral restoration decisions, with an emphasis on dataset quality, leakage-aware experiments, and model evaluation. | `Python` `Computer Vision` `Deep Learning` |
-| **ParkNGo** · Parking Reservation Management | A web-based parking reservation system exploring how bookings and parking operations can be managed in one application. | `Java` `Spring Boot` |
-| **Elyra / Coin Agent** · GDG Sri Lanka AI Buildathon | An AI-assisted personal-finance concept for managing funds, previewing spending decisions, and surfacing budget recommendations. | `Python` `Google ADK` `Gemini` |
-| **Smart Parking** · IoT Prototype | An ESP32 parking model using occupancy sensors, indicator lights, servo gates and connected monitoring. | `ESP32` `IoT` `Sensors` |
-| **Enterprise Network Infrastructure Design** | Designing a multi-floor enterprise network with wired/wireless connectivity and a documented network topology. | `Cisco Packet Tracer` `Networking` |
-
-<details>
-<summary><b>+ Another side of my work: research and communication</b></summary>
-
-<br />
-
-I've also worked on a **survey-based research report on AI adoption in academic workflows**—a different kind of engineering skill: gathering evidence, interpreting data, and communicating findings clearly.
-
-</details>
-
-### `04 / HOW I APPROACH PROBLEMS`
+Our team investigated a challenging question: **Can AI help assess underwater reef substrate for restoration support without mistaking dataset shortcuts for meaningful evidence?**
 
 ```text
-  OBSERVE        →  Find the real problem
-  DECOMPOSE      →  Understand the moving parts
-  BUILD          →  Turn an idea into a working system
-  EVALUATE       →  Test assumptions; question the results
-  IMPROVE        →  Document, iterate, repeat
+Underwater imagery
+       │
+       ▼
+Dataset audit → duplicate / leakage analysis → preprocessing
+       │
+       ▼
+Hierarchical classification: Coral? → If not, Deploy or No-Deploy?
+       │
+       ▼
+Five-model comparison → calibration → site-level evaluation → explainability
+       │
+       ▼
+Human-reviewed decision support (not autonomous deployment)
 ```
 
-I enjoy projects that force me to learn across boundaries. A web app teaches architecture and user experience; an AI experiment teaches skepticism and measurement; an IoT prototype teaches what happens when software meets hardware.
+We evaluated a **baseline CNN, ConvNeXt V2-Tiny, Swin-Tiny, DINOv2 ViT-S/14, and MobileViT-S** using a hierarchical classification approach. **ConvNeXt V2-Tiny** recorded the highest test **macro-F1 (0.871)** and **accuracy (0.896)** in our reported experiment.
 
-### `05 / TECHNICAL TOOLBOX`
+**The insight I value most:** performance dropped on previously unseen reef sites (leave-one-site-out macro-F1 approximately **0.54–0.64** across models). That makes **generalization, leakage, calibration, and ecological risk** just as important as the headline score.
+
+<sub>Results are from our team's final viva presentation, for this dataset and experimental setup. The work used a single training run per model; results should not be read as deployment guarantees or claims of individual authorship.</sub>
+
+### `03 / AGENTIC AI SPOTLIGHT` · Elyra / Coin Agent
+
+**GDG Sri Lanka AI Buildathon · Collaborative project**
+
+An exploration of how an AI agent can support personal-finance decisions with **explicit tools and controlled actions**, not just conversational advice. The provided Python implementation uses **Google Agent Development Kit (ADK)** and **Gemini**.
+
+| Agent capability | How it works |
+|:--|:--|
+| **Priority-aware funds** | Keeps a ledger of fund balances and spending priorities |
+| **Spending preview** | Calculates a proposed allocation before any commitment |
+| **Confirmation step** | Requires approval before a proposed expenditure is recorded |
+| **Budget suggestions** | Checks spending history for lower-cost past examples |
+| **Visual snapshots** | Includes an optional image-generation tool for budget visuals |
+
+`Python` · `Google ADK` · `Gemini` · `Tool-driven workflows`
+
+### `04 / DATA → INSIGHT` · Research Beyond Model Training
+
+My team's study of **AI tool adoption among university students** examined survey responses from **66 participants**, looking at usage patterns, perceived learning benefits, and responsible AI use. It helped me appreciate the other half of data science: **asking sensible questions, interpreting results carefully, and communicating findings clearly**.
+
+<sub>Academic survey research; findings reflect the sampled respondents, not all university students.</sub>
+
+### `05 / AN ENGINEERING FOUNDATION`
+
+AI interests me most when I can connect it to engineering fundamentals. Other **collaborative projects** I've been involved with include:
+
+| Project | What we explored |
+|:--|:--|
+| **Parkiyo — Vehicle Parking Management** | Web application workflows, backend logic, databases, and vehicle/parking operations · `Java` `Spring Boot` `MySQL` |
+| **ParkNGo — Parking Reservation Management** | Building a reservation-oriented parking web application · `Java` `Spring Boot` |
+| **Smart Parking IoT Prototype** | Detecting parking occupancy and controlling physical components using `ESP32`, sensors, and servo gates |
+| **Enterprise Network Design** | Multi-floor enterprise network planning, wired/wireless connectivity, and `Cisco Packet Tracer` |
+
+*These were group projects. This profile showcases the teams' work without implying that I independently implemented every feature.*
+
+### `06 / TOOLS & TECHNOLOGIES`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,spring,mysql,html,css,js,git,github,arduino&theme=dark&perline=10" alt="Java, Python, Spring, MySQL, HTML, CSS, JavaScript, Git, GitHub, Arduino" />
+<img alt="Python Java Spring MySQL Git GitHub Arduino HTML CSS JavaScript" src="https://skillicons.dev/icons?i=python,java,spring,mysql,git,github,arduino,html,css,js&theme=dark&perline=10" />
 
-<br /><br />
+<br/>
 
-`Full-stack fundamentals` &nbsp; `Database-driven applications` &nbsp; `AI/ML experimentation` &nbsp; `Agent-based workflows` &nbsp; `Embedded prototyping`
+**AI & Data**  ·  Computer Vision · Deep Learning Experiments · Data Auditing · EDA · Model Evaluation  
+**Engineering**  ·  Java · Spring Boot · Python · SQL · Git · IoT Prototyping
 
 </div>
 
-### `06 / THE NEXT CHAPTER`
+### `07 / MY WAY OF THINKING`
 
-I'm looking for an **internship where I can contribute to real software, learn from experienced engineers, and become a stronger problem-solver**.
+```text
+  QUESTION       What problem are we actually solving?
+      ↓
+  EXPLORE        What does the data or system tell us?
+      ↓
+  BUILD          What is the simplest meaningful solution?
+      ↓
+  EVALUATE       Where does it fail? What are we missing?
+      ↓
+  IMPROVE        Make the next iteration more reliable.
+```
 
-I'm especially interested in teams working on:
+### `08 / WHAT'S NEXT?`
 
-- **Backend / full-stack software engineering**
-- **Applied AI and intelligent systems**
-- **Products that solve tangible, everyday problems**
+I'm actively exploring opportunities to **learn and contribute as an AI / ML, Data Science, or Software Engineering intern**. I'm particularly interested in teams that value clear thinking, rigorous experimentation, thoughtful engineering, and continuous improvement.
 
-I bring a willingness to explore unfamiliar problems, a habit of learning by building, and experience collaborating on projects across different disciplines.
+**I don't claim to know everything. I do care about understanding what I build.**
 
 <div align="center">
 
-### `LET'S BUILD SOMETHING MEANINGFUL.`
+**Have an interesting problem worth exploring? Let's connect.**
 
-**If you're building something interesting, I'd love to connect.**
+[![Connect on GitHub](https://img.shields.io/badge/Connect%20on%20GitHub-121C2C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hafeelfaleel)
 
-[![Connect on GitHub](https://img.shields.io/badge/Connect%20on%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hafeelfaleel)
+<!-- Add a verified LinkedIn profile link or professional email button here when ready. -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:22D3EE,55:0B4762,100:081526" width="100%" alt="" />
+<img width="100%" alt="Decorative teal wave" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:18B5BF,55:123C58,100:081326" />
 
 </div>
