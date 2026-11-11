@@ -1,253 +1,147 @@
+<!--
+  HAFEEL FALEEL • GitHub profile README
+  Designed for github.com/hafeelfaleel
+  Project descriptions indicate collaborative/team work and do not imply sole authorship.
+-->
+
 <div align="center">
 
-<<<<<<< HEAD
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1f29&height=180&section=header&text=Hafeel%20Faleel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Self-taught%20engineer%20%C2%B7%20Local-first%20AI%20%C2%B7%20Builds%20things%20end-to-end&descSize=16&descAlignY=62&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:081526,45:0B4762,100:22D3EE&text=HAFEEL%20FALEEL&fontColor=FFFFFF&fontSize=49&fontAlignY=39&desc=BUILDING%20BEYOND%20THE%20BRIEF&descAlignY=62&descSize=15&animation=fadeIn" width="100%" alt="Hafeel Faleel — Building Beyond the Brief" />
+
+<a href="https://github.com/hafeelfaleel">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3300&pause=1000&color=22D3EE&center=true&vCenter=true&repeat=true&width=750&height=40&lines=Software+Engineering+%E2%80%A2+Artificial+Intelligence+%E2%80%A2+IoT;From+full-stack+systems+to+AI+research;Curiosity+is+the+starting+point.+Building+is+the+proof." alt="Animated introduction" />
+</a>
+
+**IT Undergraduate @ SLIIT** &nbsp;·&nbsp; **Exploring software engineering & applied AI** &nbsp;·&nbsp; **Open to internship opportunities**
+
+[![GitHub](https://img.shields.io/badge/GitHub-hafeelfaleel-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hafeelfaleel)
+![Focus](https://img.shields.io/badge/FOCUS-Build%20%2B%20Learn%20%2B%20Improve-0F766E?style=for-the-badge)
 
 </div>
 
-I build software that works without depending on someone else's server. My focus right now is local-first AI — assistants, tools, and pipelines that run entirely on-device, with no API keys and no cloud dependency.
+---
 
-I like problems with a clear before-and-after: something didn't work, then it did, and I can point to exactly why.
+### `01 / THE PERSON BEHIND THE CODE`
 
-**Currently building:** a fully local voice assistant (speech recognition → local LLM → speech synthesis, zero cloud calls)
-**Interested in:** on-device AI, systems programming, and making things fast enough to feel real-time on ordinary hardware
+I like building things that connect **software to real problems**—whether that means designing a parking workflow, experimenting with deep-learning models for coral restoration, or making a prototype react to sensor data.
 
-<br/>
+I'm an Information Technology undergraduate at **Sri Lanka Institute of Information Technology (SLIIT)**, growing through collaborative projects across **full-stack development, AI/ML, IoT, and networking**.
 
-### Featured work
-=======
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1931,50:1565C0,100:2196F3&height=220&section=header&text=Hafeel%20Faleel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Undergraduate%20%7C%20Full-Stack%20%26%20IoT%20Builder&descAlignY=55&descSize=18" width="100%"/>
+What matters to me isn't just getting something to run. It's understanding **why it works**, where it breaks, and what it would take to make it better.
 
-<br/>
+> **My mindset:** Stay curious. Think in systems. Build with purpose.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=1565C0&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate+%40+SLIIT;Java+%7C+Spring+Boot+%7C+Python+%7C+IoT;Building+Parkiyo+%E2%80%94+Smart+Parking+System;AI-Assisted+Apps+%7C+Embedded+Systems+%7C+Networking)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1931?style=for-the-badge&logo=linkedin&logoColor=2196F3)](https://www.linkedin.com/in/hafeel-faleel-78052a37b)
-[![GitHub](https://img.shields.io/badge/GitHub-0A1931?style=for-the-badge&logo=github&logoColor=2196F3)](https://github.com/hafeelfaleel)
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%">
-
-## 🧭 About Me
+### `02 / WHAT I'VE BEEN EXPLORING`
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-```yaml
-name:        Hafeel Faleel
-role:        Undergraduate @ SLIIT
-focus:       Full-Stack Development, IoT & Embedded Systems
-community:   SLIIT FOSS Community
-languages:   [Java, Python, C, Shell]
-frameworks:  [Spring Boot, Hibernate/JPA, Thymeleaf]
-currently:   Building Parkiyo — a smart parking platform
-fun_fact:    "Building Jarvis — proof that Tony has a heart 🤖"
-```
+**🧩 Software engineering**
+
+Designing practical workflows, connecting the frontend to the backend, working with databases, and thinking about how people actually use a system.
+
+**Tools I've worked with:** Java, Spring Boot, Thymeleaf, SQL, Git.
 
 </td>
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
-- 🎓 Studying Computer Science at **SLIIT**
-- 🅿️ Building **Parkiyo**, a full-stack smart parking system
-- 🔌 Designed an **IoT-based smart parking** prototype with ESP32
-- 🌐 Designed enterprise-grade network infrastructure for coursework
-- 🐧 Active in the **SLIIT FOSS Community**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/hafeel-faleel-78052a37b)
+**🧠 Applied AI & intelligent agents**
+
+Exploring computer vision, experimental evaluation, AI agents and what makes an AI system useful beyond a model prediction.
+
+**Tools I've explored:** Python, deep learning, Google ADK, Gemini.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔌 Connected systems**
+
+Taking ideas beyond a screen—using sensors, microcontrollers, and automation to interact with the physical world.
+
+**Experience:** ESP32, ultrasonic sensors, servo control, Blynk IoT.
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 Systems & infrastructure**
+
+Understanding how devices, services, and networks fit together—and how thoughtful design supports reliable systems.
+
+**Experience:** Network design and Cisco Packet Tracer.
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%">
+### `03 / SELECTED WORK · BUILT WITH TEAMS`
 
-## 🛠️ Tech Stack
+<sub>These are collaborative academic and buildathon projects. The descriptions highlight the projects, not a claim that I built every component independently.</sub>
+
+| Work | What makes it interesting | Space |
+|:--|:--|:--|
+| **Parkiyo** · Smart Vehicle Parking Management | A full-stack parking management system that brings together vehicle records, parking operations, and application workflows. | `Java` `Spring Boot` `MySQL` |
+| **AI-Driven Reef Substrate Classification** | Deep-learning research supporting coral restoration decisions, with an emphasis on dataset quality, leakage-aware experiments, and model evaluation. | `Python` `Computer Vision` `Deep Learning` |
+| **ParkNGo** · Parking Reservation Management | A web-based parking reservation system exploring how bookings and parking operations can be managed in one application. | `Java` `Spring Boot` |
+| **Elyra / Coin Agent** · GDG Sri Lanka AI Buildathon | An AI-assisted personal-finance concept for managing funds, previewing spending decisions, and surfacing budget recommendations. | `Python` `Google ADK` `Gemini` |
+| **Smart Parking** · IoT Prototype | An ESP32 parking model using occupancy sensors, indicator lights, servo gates and connected monitoring. | `ESP32` `IoT` `Sensors` |
+| **Enterprise Network Infrastructure Design** | Designing a multi-floor enterprise network with wired/wireless connectivity and a documented network topology. | `Cisco Packet Tracer` `Networking` |
+
+<details>
+<summary><b>+ Another side of my work: research and communication</b></summary>
+
+<br />
+
+I've also worked on a **survey-based research report on AI adoption in academic workflows**—a different kind of engineering skill: gathering evidence, interpreting data, and communicating findings clearly.
+
+</details>
+
+### `04 / HOW I APPROACH PROBLEMS`
+
+```text
+  OBSERVE        →  Find the real problem
+  DECOMPOSE      →  Understand the moving parts
+  BUILD          →  Turn an idea into a working system
+  EVALUATE       →  Test assumptions; question the results
+  IMPROVE        →  Document, iterate, repeat
+```
+
+I enjoy projects that force me to learn across boundaries. A web app teaches architecture and user experience; an AI experiment teaches skepticism and measurement; an IoT prototype teaches what happens when software meets hardware.
+
+### `05 / TECHNICAL TOOLBOX`
 
 <div align="center">
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=java,python,spring,mysql,html,css,js,git,github,arduino&theme=dark&perline=10" alt="Java, Python, Spring, MySQL, HTML, CSS, JavaScript, Git, GitHub, Arduino" />
 
-![Java](https://img.shields.io/badge/Java-0A1931?style=for-the-badge&logo=openjdk&logoColor=2196F3)
-![Python](https://img.shields.io/badge/Python-0A1931?style=for-the-badge&logo=python&logoColor=2196F3)
-![C](https://img.shields.io/badge/C-0A1931?style=for-the-badge&logo=c&logoColor=2196F3)
-![Shell Script](https://img.shields.io/badge/Shell_Script-0A1931?style=for-the-badge&logo=gnu-bash&logoColor=2196F3)
+<br /><br />
 
-**Backend & Frameworks**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0A1931?style=for-the-badge&logo=springboot&logoColor=2196F3)
-![Hibernate](https://img.shields.io/badge/Hibernate-0A1931?style=for-the-badge&logo=hibernate&logoColor=2196F3)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-0A1931?style=for-the-badge&logo=thymeleaf&logoColor=2196F3)
-![REST API](https://img.shields.io/badge/REST_API-0A1931?style=for-the-badge&logo=fastapi&logoColor=2196F3)
-
-**Database & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-0A1931?style=for-the-badge&logo=mysql&logoColor=2196F3)
-![Git](https://img.shields.io/badge/Git-0A1931?style=for-the-badge&logo=git&logoColor=2196F3)
-![GitHub](https://img.shields.io/badge/GitHub-0A1931?style=for-the-badge&logo=github&logoColor=2196F3)
-![Linux](https://img.shields.io/badge/Linux-0A1931?style=for-the-badge&logo=linux&logoColor=2196F3)
-![VS Code](https://img.shields.io/badge/VS_Code-0A1931?style=for-the-badge&logo=visualstudiocode&logoColor=2196F3)
-
-**IoT & Embedded**
-
-![ESP32](https://img.shields.io/badge/ESP32-0A1931?style=for-the-badge&logo=espressif&logoColor=2196F3)
-![Blynk](https://img.shields.io/badge/Blynk-0A1931?style=for-the-badge&logo=blynk&logoColor=2196F3)
-
-**AI Integration**
-
-![GPT--4.1--mini](https://img.shields.io/badge/GitHub_Models_API-0A1931?style=for-the-badge&logo=openai&logoColor=2196F3)
+`Full-stack fundamentals` &nbsp; `Database-driven applications` &nbsp; `AI/ML experimentation` &nbsp; `Agent-based workflows` &nbsp; `Embedded prototyping`
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%">
+### `06 / THE NEXT CHAPTER`
 
-## 🚀 Featured Projects
+I'm looking for an **internship where I can contribute to real software, learn from experienced engineers, and become a stronger problem-solver**.
 
-### 🅿️ Parkiyo — Smart Vehicle Parking Management System
-*Full-stack team project covering the complete digital parking experience: registration, entry/exit, payments, and AI-assisted support.*
+I'm especially interested in teams working on:
 
-**My contributions:**
-- Built the vehicle lifecycle end-to-end — registration, real-time QR-based entry/exit, and account deletion — keeping data accurate and traceable for users and admins
-- Built **Parky**, an in-app assistant with a hybrid architecture: a rule-based intent engine resolves common requests (wallet checks, QR issues) instantly, while **GPT-4.1-mini** via the **GitHub Models API** handles open-ended queries
-- Worked in a modular, branch-per-feature team of 6, each owning a distinct area, integrated into one cohesive product
+- **Backend / full-stack software engineering**
+- **Applied AI and intelligent systems**
+- **Products that solve tangible, everyday problems**
 
-**Tech:** `Java` `Spring Boot` `Spring Security` `Hibernate/JPA` `MySQL` `Thymeleaf` `REST APIs` `QR Code Integration` `GitHub Models API`
-
-<br/>
-
-### 🚗 Smart Parking — IoT-Based Parking Management System
-*An IoT system that helps drivers find available parking spaces efficiently, reducing congestion and frustration.*
-
-- Built with **ESP32**, ultrasonic sensors, servo motors, and the **Blynk** app
-- Drivers check real-time slot availability and open gates directly via the app
-- A buzzer alerts when a vehicle gets too close to the sensor, preventing damage
-
-**Tech:** `ESP32` `Ultrasonic Sensors` `Servo Motors` `Blynk`
-
-<br/>
-
-### 🌐 Enterprise Network Infrastructure Design
-*Academic project — Data Communication and Networking module @ SLIIT (Aug 2025)*
-
-- Designed a secure, high-availability enterprise network for a two-floor software office
-- Applied industry-standard network architectures and technologies for scalability and resilience
-
-**Tech:** `Network Design` `High Availability Architecture` `Enterprise Security`
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%">
-
-## 📌 GitHub Repositories
->>>>>>> 4e2e48cbbba957c5e87636b3640a43239812d2c0
+I bring a willingness to explore unfamiliar problems, a habit of learning by building, and experience collaborating on projects across different disciplines.
 
 <div align="center">
 
-<a href="https://github.com/hafeelfaleel/Jarvis">
-<<<<<<< HEAD
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=hafeelfaleel&repo=Jarvis&theme=default_repocard&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-=======
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hafeelfaleel&repo=Jarvis&hide_border=true&title_color=2196F3&text_color=A9C6E8&icon_color=1565C0&bg_color=0A1931" />
-</a>
-<a href="https://github.com/hafeelfaleel/CS-50">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hafeelfaleel&repo=CS-50&hide_border=true&title_color=2196F3&text_color=A9C6E8&icon_color=1565C0&bg_color=0A1931" />
-</a>
+### `LET'S BUILD SOMETHING MEANINGFUL.`
 
-<a href="https://github.com/hafeelfaleel/SLIIT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hafeelfaleel&repo=SLIIT&hide_border=true&title_color=2196F3&text_color=A9C6E8&icon_color=1565C0&bg_color=0A1931" />
-</a>
-<a href="https://github.com/hafeelfaleel/Python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hafeelfaleel&repo=Python&hide_border=true&title_color=2196F3&text_color=A9C6E8&icon_color=1565C0&bg_color=0A1931" />
-</a>
+**If you're building something interesting, I'd love to connect.**
 
-<a href="https://github.com/hafeelfaleel/Bashaway2025">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hafeelfaleel&repo=Bashaway2025&hide_border=true&title_color=2196F3&text_color=A9C6E8&icon_color=1565C0&bg_color=0A1931" />
-</a>
-<a href="https://github.com/hafeelfaleel/Github-for-beginners">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hafeelfaleel&repo=Github-for-beginners&hide_border=true&title_color=2196F3&text_color=A9C6E8&icon_color=1565C0&bg_color=0A1931" />
->>>>>>> 4e2e48cbbba957c5e87636b3640a43239812d2c0
-</a>
+[![Connect on GitHub](https://img.shields.io/badge/Connect%20on%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hafeelfaleel)
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:22D3EE,55:0B4762,100:081526" width="100%" alt="" />
 
-<<<<<<< HEAD
-**Jarvis** — a local voice assistant with no cloud dependency: Whisper for speech-to-text, a local LLM via Ollama for reasoning, and offline text-to-speech for replies. Evolved from a basic chat loop to real-time, voice-activity-detection-based listening across five iterations.
-
-<br/>
-
-### Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-=======
-| Repository | Description | Language |
-|---|---|---|
-| 🤖 **[Jarvis](https://github.com/hafeelfaleel/Jarvis)** | A personal AI-assistant style project — "Proof that Tony has a Heart" | Python |
-| 📘 **[CS-50](https://github.com/hafeelfaleel/CS-50)** | Complete collection of Harvard's CS50 problem sets | C |
-| 🎓 **[SLIIT](https://github.com/hafeelfaleel/SLIIT)** | Coursework and projects from the university journey | Java |
-| 🐍 **[Python](https://github.com/hafeelfaleel/Python)** | Python practice — from "Hello World" to advanced concepts | Python |
-| 💻 **[Bashaway2025](https://github.com/hafeelfaleel/Bashaway2025)** | Scripts and solutions for the SLIIT FOSS Bashaway 2025 competition | Shell |
-| 🌱 **[Github-for-beginners](https://github.com/hafeelfaleel/Github-for-beginners)** | Fork used to practice Git/GitHub fundamentals: fork, clone, branch, commit, push | Markdown |
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%">
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hafeelfaleel&show_icons=true&hide_border=true&title_color=2196F3&icon_color=1565C0&text_color=A9C6E8&bg_color=0A1931"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=hafeelfaleel&hide_border=true&background=0A1931&ring=2196F3&fire=1565C0&currStreakLabel=2196F3&sideLabels=A9C6E8&currStreakNum=A9C6E8&sideNums=A9C6E8&dates=6E8FB0"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafeelfaleel&layout=compact&hide_border=true&title_color=2196F3&text_color=A9C6E8&bg_color=0A1931" />
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hafeelfaleel&hide_border=true&bg_color=0A1931&color=2196F3&line=1565C0&point=ffffff&area=true&area_color=2196F3" width="100%"/>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%">
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1931?style=for-the-badge&logo=linkedin&logoColor=2196F3)](https://www.linkedin.com/in/hafeel-faleel-78052a37b)
-[![GitHub](https://img.shields.io/badge/GitHub-0A1931?style=for-the-badge&logo=github&logoColor=2196F3)](https://github.com/hafeelfaleel)
->>>>>>> 4e2e48cbbba957c5e87636b3640a43239812d2c0
-
-</div>
-
-<br/>
-
-<<<<<<< HEAD
-### Activity
-
-<div align="center">
-
-<img height="160" src="https://github-stats-extended.vercel.app/api?username=hafeelfaleel&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
-<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hafeelfaleel&layout=compact&theme=default&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hafeelfaleel)
-
-=======
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,50:1565C0,100:0A1931&height=120&section=footer" width="100%"/>
-
-<div align="center">
-<sub>⭐ From <a href="https://github.com/hafeelfaleel">hafeelfaleel</a> — thanks for stopping by!</sub>
->>>>>>> 4e2e48cbbba957c5e87636b3640a43239812d2c0
 </div>
