@@ -1,22 +1,15 @@
-<!--
-  GitHub Profile • Hafeel Faleel
-  Direction: AI × Data Science × thoughtful engineering
-  Designed to remain readable on desktop/mobile and in light/dark themes.
-  Collaborative projects are attributed as team work.
--->
-
+<!-- Hafeel Faleel | GitHub profile README | 01_JARVIS_Console -->
 <div align="center">
 
-<img width="100%" alt="Hafeel Faleel — Engineering Intelligence. Understanding Data." src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:081326,45:123C58,100:18B5BF&text=HAFEEL%20FALEEL&fontColor=FFFFFF&fontSize=49&fontAlignY=36&desc=ENGINEERING%20INTELLIGENCE.%20UNDERSTANDING%20DATA.&descAlignY=59&descSize=15&animation=fadeIn" />
+<img src="assets/hero.png" alt="Hafeel Faleel — AI and Data Science portfolio banner" width="100%" />
 
-<a href="https://github.com/hafeelfaleel"><img alt="AI, data science and software engineering animated headline" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1100&color=16B9C8&center=true&vCenter=true&width=760&height=45&lines=AI+%C3%97+Data+Science+%C3%97+Software+Engineering;Learning+to+turn+raw+data+into+meaningful+decisions;Research.+Build.+Question.+Improve." /></a>
+`SYSTEM ONLINE` &nbsp; • &nbsp; `AI / DATA / SOFTWARE`
 
-**Information Technology Undergraduate · SLIIT, Sri Lanka**  
-**Aspiring AI & Data Science Engineer · Seeking internship opportunities**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1400&color=45C9D9&center=true&vCenter=true&width=850&height=45&lines=Aspiring+AI+%26+Data+Science+Engineer;Learning+to+ask+better+questions+with+data;Exploring+intelligent+agents+and+real-world+systems" alt="Animated text: AI & Data Science, data-driven problem solving, intelligent agents" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-@hafeelfaleel-121C2C?style=flat-square&logo=github&logoColor=white)](https://github.com/hafeelfaleel)
-![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Data%20Science-087F8C?style=flat-square)
-![Approach](https://img.shields.io/badge/Approach-Evidence%20over%20assumptions-243B53?style=flat-square)
+**IT Undergraduate @ SLIIT, Sri Lanka** &nbsp; | &nbsp; **Open to internship opportunities**
+
+[![GitHub profile](https://img.shields.io/badge/GitHub-hafeelfaleel-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hafeelfaleel)
 
 </div>
 
@@ -106,6 +99,6 @@ I'm actively exploring opportunities to **learn and contribute as an AI / ML, Da
 
 <!-- Add a verified LinkedIn profile link or professional email button here when ready. -->
 
-<img width="100%" alt="Decorative teal wave" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:18B5BF,55:123C58,100:081326" />
+
 
 </div>
