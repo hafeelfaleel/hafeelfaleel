@@ -2,7 +2,7 @@
   GitHub Profile • Hafeel Faleel
   Direction: AI × Data Science × thoughtful engineering
   Designed to remain readable on desktop/mobile and in light/dark themes.
-  Collaborative projects are attributed as team work; results are from the team's viva slides.
+  Collaborative projects are attributed as team work.
 -->
 
 <div align="center">
@@ -26,48 +26,11 @@
 
 I am **Hafeel**, an IT undergraduate who enjoys understanding *why* systems work—not just making them run. I'm drawn to the intersection of **artificial intelligence, data, and practical engineering**: the point where a messy dataset becomes an insight, an experiment becomes a decision, or an idea becomes something people can use.
 
-Across collaborative university projects and a buildathon, I've explored **computer vision, model evaluation, intelligent agents, full-stack systems, and IoT**. I'm still learning, and I like being able to explain both **what worked** and **what didn't**.
+Across collaborative university projects and a buildathon, I've explored **intelligent agents, data analysis, full-stack systems, and IoT**. I'm still learning, and I like being able to explain both **what worked** and **what didn't**.
 
 > **The principle I build around:** A convincing result is not necessarily a reliable one. Test it, understand its limits, then make it better.
 
-### `02 / RESEARCH SPOTLIGHT` · Coral Restoration × Computer Vision
-
-<table>
-<tr>
-<td align="center"><b>11,190</b><br/><sub>unique reef images after deduplication</sub></td>
-<td align="center"><b>5</b><br/><sub>deep-learning backbones evaluated</sub></td>
-<td align="center"><b>0.871</b><br/><sub>best held-out test macro-F1</sub></td>
-</tr>
-</table>
-
-**AI-Driven Reef Substrate Classification for Coral Restoration Support**  
-*Collaborative research project · SLIIT · IT2011 Artificial Intelligence and Machine Learning*
-
-Our team investigated a challenging question: **Can AI help assess underwater reef substrate for restoration support without mistaking dataset shortcuts for meaningful evidence?**
-
-```text
-Underwater imagery
-       │
-       ▼
-Dataset audit → duplicate / leakage analysis → preprocessing
-       │
-       ▼
-Hierarchical classification: Coral? → If not, Deploy or No-Deploy?
-       │
-       ▼
-Five-model comparison → calibration → site-level evaluation → explainability
-       │
-       ▼
-Human-reviewed decision support (not autonomous deployment)
-```
-
-We evaluated a **baseline CNN, ConvNeXt V2-Tiny, Swin-Tiny, DINOv2 ViT-S/14, and MobileViT-S** using a hierarchical classification approach. **ConvNeXt V2-Tiny** recorded the highest test **macro-F1 (0.871)** and **accuracy (0.896)** in our reported experiment.
-
-**The insight I value most:** performance dropped on previously unseen reef sites (leave-one-site-out macro-F1 approximately **0.54–0.64** across models). That makes **generalization, leakage, calibration, and ecological risk** just as important as the headline score.
-
-<sub>Results are from our team's final viva presentation, for this dataset and experimental setup. The work used a single training run per model; results should not be read as deployment guarantees or claims of individual authorship.</sub>
-
-### `03 / AGENTIC AI SPOTLIGHT` · Elyra / Coin Agent
+### `02 / AGENTIC AI SPOTLIGHT` · Elyra / Coin Agent
 
 **GDG Sri Lanka AI Buildathon · Collaborative project**
 
@@ -83,13 +46,13 @@ An exploration of how an AI agent can support personal-finance decisions with **
 
 `Python` · `Google ADK` · `Gemini` · `Tool-driven workflows`
 
-### `04 / DATA → INSIGHT` · Research Beyond Model Training
+### `03 / DATA → INSIGHT` · Research Beyond Model Training
 
 My team's study of **AI tool adoption among university students** examined survey responses from **66 participants**, looking at usage patterns, perceived learning benefits, and responsible AI use. It helped me appreciate the other half of data science: **asking sensible questions, interpreting results carefully, and communicating findings clearly**.
 
 <sub>Academic survey research; findings reflect the sampled respondents, not all university students.</sub>
 
-### `05 / AN ENGINEERING FOUNDATION`
+### `04 / AN ENGINEERING FOUNDATION`
 
 AI interests me most when I can connect it to engineering fundamentals. Other **collaborative projects** I've been involved with include:
 
@@ -102,7 +65,7 @@ AI interests me most when I can connect it to engineering fundamentals. Other **
 
 *These were group projects. This profile showcases the teams' work without implying that I independently implemented every feature.*
 
-### `06 / TOOLS & TECHNOLOGIES`
+### `05 / TOOLS & TECHNOLOGIES`
 
 <div align="center">
 
@@ -110,12 +73,12 @@ AI interests me most when I can connect it to engineering fundamentals. Other **
 
 <br/>
 
-**AI & Data**  ·  Computer Vision · Deep Learning Experiments · Data Auditing · EDA · Model Evaluation  
+**AI & Data**  ·  Data Analysis · Exploratory Data Analysis · AI Agents · Data Visualization  
 **Engineering**  ·  Java · Spring Boot · Python · SQL · Git · IoT Prototyping
 
 </div>
 
-### `07 / MY WAY OF THINKING`
+### `06 / MY WAY OF THINKING`
 
 ```text
   QUESTION       What problem are we actually solving?
@@ -129,7 +92,7 @@ AI interests me most when I can connect it to engineering fundamentals. Other **
   IMPROVE        Make the next iteration more reliable.
 ```
 
-### `08 / WHAT'S NEXT?`
+### `07 / WHAT'S NEXT?`
 
 I'm actively exploring opportunities to **learn and contribute as an AI / ML, Data Science, or Software Engineering intern**. I'm particularly interested in teams that value clear thinking, rigorous experimentation, thoughtful engineering, and continuous improvement.
 
